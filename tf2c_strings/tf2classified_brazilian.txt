@@ -411,7 +411,7 @@
 "TF_Weapon_Knife_Desc"	"For the man who loves to watch things unfold."
 // Fists
 "TF_Weapon_Fists"		"Punhos"
-"TF_Weapon_Fists_Desc"	"I am not done with you yet!"
+"TF_Weapon_Fists_Desc"	"Eu ainda não acabei com você!"
 // Shovel
 "TF_Weapon_Shovel"		"Pá"
 "TF_Weapon_Shovel_Desc"	"Bury your enemies in times of war, and rob their graves in times of relative peace."
@@ -423,10 +423,10 @@
 "TF_Weapon_Bonesaw_Desc"	"Não se preocupe, o sangue não é meu! ...Pera, agora que estou vendo, não tenho tanta certeza."
 // Shotgun
 "TF_Weapon_Shotgun"					"Escopeta"
-"TF_Weapon_Shotgun_Desc_Engineer"	"Sometimes, you just have to do things yourself."
+"TF_Weapon_Shotgun_Desc_Engineer"	"As vezes, você so precisa fazer as coisas você mesmo."
 "TF_Weapon_Shotgun_Desc_Soldier"	"My shotgun disagrees with your will to live, maggot!"
 "TF_Weapon_Shotgun_Desc_Heavy"		"Heavy will make do with this."
-"TF_Weapon_Shotgun_Desc_Pyro"		"Let this do the talking."
+"TF_Weapon_Shotgun_Desc_Pyro"		"Deixe que isso fale por mim."
 // Scattergun
 "TF_Weapon_Scattergun"		"Espingarda"
 "TF_Weapon_Scattergun_Desc"	"Relax, pal, I just winged ya!"
@@ -438,7 +438,7 @@
 "TF_Weapon_Minigun_Desc"	"Sascha não escuta Heavy. Você acha ela escuta VOCÊ?"
 // SMG
 "TF_Weapon_SMG"			"Submetralhadora"
-"TF_Weapon_SMG_Desc"	"Now how about that? We're both more dangerous up close."
+"TF_Weapon_SMG_Desc"	"Que tal assim agora? Nós dois somos perigosos de perto."
 // Syringe Gun
 "TF_Weapon_SyringeGun"		"Arma de Seringas"
 "TF_Weapon_SyringeGun_Desc"	"Ooh, you make a good sharps container!"
@@ -453,14 +453,14 @@
 "TF_Weapon_StickybombLauncher_Desc"	"I'll blast 'em straight up inta Heaven meself if I need ta."
 // Flame Thrower
 "TF_Weapon_FlameThrower"		"Lança-Chamas"
-"TF_Weapon_FlameThrower_Desc"	"Things are heating up..."
+"TF_Weapon_FlameThrower_Desc"	"As coisas estão esquentando..."
 // Pistol
 "TF_Weapon_Pistol"					"Pistola"
-"TF_Weapon_Pistol_Desc_Engineer"	"Start dancin', boy."
+"TF_Weapon_Pistol_Desc_Engineer"	"Comece a dançar, garoto."
 "TF_Weapon_Pistol_Desc_Scout"		"Everyone's outta range 'til they ain't."
 // Revolver
 "TF_Weapon_Revolver"		"Revólver"
-"TF_Weapon_Revolver_Desc"	"For when stealth is no longer an option."
+"TF_Weapon_Revolver_Desc"	"Para quando furtividade não é uma opção."
 // PDA: Teleporter (Construction PDA)
 "TF_Weapon_ConstructionPDA"			"PDA de Construção"
 "TF_Weapon_ConstructionPDA_Desc"	"Everything an Engineer like myself needs, all in this little device here."
@@ -471,13 +471,13 @@
 "TF_Weapon_DisguiseKit"	"Kit de Disfarce"
 // Medi Gun
 "TF_Weapon_Medigun"			"Arma Médica"
-"TF_Weapon_Medigun_Desc"	"You do all have the same blood type, yes? More or less?"
+"TF_Weapon_Medigun_Desc"	"Você tem todos os tipos sanguéneos, sim? Mais or menos?"
 // Invis Watch
 "TF_Weapon_InvisWatch"		"Relógio de Invisibilidade"
-"TF_Weapon_InvisWatch_Desc"	"Stylish. A shame they'll never see it."
+"TF_Weapon_InvisWatch_Desc"	"Estiloso. Uma pena que ninguém ira ver."
 // Sapper
 "TF_Weapon_Sapper"		"Sabotador"
-"TF_Weapon_Sapper_Desc"	"Who left that there?"
+"TF_Weapon_Sapper_Desc"	"Quem deixou aquilo lá?"
 
 // ----------------------------------------------------------------
 // Achievement weapon strings
@@ -488,18 +488,18 @@
 "TF_Weapon_Kritzkrieg_Desc"	"Go on, do a little harm! Keep us both in business, ja?"
 // Überspritze
 "TF_Weapon_Uberspritze"			"Überspritze"
-"TF_Weapon_Uberspritze_Desc"	"Oh, quit squirming, it's for a good cause!"
+"TF_Weapon_Uberspritze_Desc"	"Oh, pare de se contorcer, é por uma boa causa!"
 // Flare Gun
 "TF_Weapon_FlareGun"		"Arma Sinalizadora"
-"TF_Weapon_FlareGun_Desc"	"Someone's on fire! Quick, send out a distress signal!"
+"TF_Weapon_FlareGun_Desc"	"Alguem está pegando fogo! Rápido, mandem o sinal de socorro!"
 // Sandvich
 "TF_Weapon_Sandvich"		"Sandviche"
 "TF_Weapon_Sandvich_Desc"	"Chega mais! Vô te dá um pedaço."
 // Huntsman
 "TF_Weapon_Huntsman"		"O Caçador"
-"TF_Weapon_Huntsman_Desc"	"Whatever happened to chivalry?"
+"TF_Weapon_Huntsman_Desc"	"O que aconteceu com a cavalaria?"
 // Gunboats
-"TF_Weapon_Gunboats"				"Cacnhoneiras"
+"TF_Weapon_Gunboats"				"Canhoneiras"
 "TF_Weapon_Gunboats_Desc_Soldier"	"Lead shoe inserts! Perfect for anyone trying to cheat on the army physical."
 "TF_Weapon_Gunboats_Desc_Demoman"	"Boots so good, you won't even worry about the screws drilled into your feet."
 
@@ -512,19 +512,19 @@
 "TF_Weapon_Umbrella_Desc"	"Um homem requintado deve permanecer seco."
 // Nail Gun
 "TF_Weapon_NailGun"			"Arma de Pregos"
-"TF_Weapon_NailGun_Desc"	"Yeah, lost that job pretty quick."
+"TF_Weapon_NailGun_Desc"	"Sim, perdi aquele trabalho muito rápido."
 // R.P.G.
 "TF_Weapon_RPG"			"R.P.G."
 "TF_Weapon_RPG_Desc"	"See how the rocket pokes out the front, son? It yearns for freedom. And by God, it will have it."
 // Hunting Revolver
 "TF_Weapon_HuntingRevolver"			"Revólver de Caça"
-"TF_Weapon_HuntingRevolver_Desc"	"Made for a more offensive approach."
+"TF_Weapon_HuntingRevolver_Desc"	"Feito para uma abordagem mais ofensiva."
 // Fishwhacker
-"TF_Weapon_Fishwhacker"			"Fishwhacker"
+"TF_Weapon_Fishwhacker"			"Batedor de Peixe"
 "TF_Weapon_Fishwhacker_Desc"	"Hold 'er steady, mate. She tends to throw splinters."
 // Tranquilizer Gun
 "TF_Weapon_TranquilizerGun"			"Arma Tranquilizante"
-"TF_Weapon_TranquilizerGun_Desc"	"In your dreams, chéri."
+"TF_Weapon_TranquilizerGun_Desc"	"Nos seus sonhos, chéri."
 // Dynamite Pack
 "TF_Weapon_DynamitePack"		"Dynamite Pack"
 "TF_Weapon_DynamitePack_Desc"	"Ye'll be in bits tomorrow."
@@ -544,13 +544,13 @@
 
 // L'escampette
 "TF_Weapon_Lescampette"			"L'escampette"
-"TF_Weapon_Lescampette_Desc"	"Make it quick."
+"TF_Weapon_Lescampette_Desc"	"Seja rápido."
 // Chekhov's Punch
 "TF_Weapon_ChekhovsPunch"		"O Murro do Checkhov"
-"TF_Weapon_ChekhovsPunch_Desc"	"Do not cry! You have narrative purpose in Heavy's life."
+"TF_Weapon_ChekhovsPunch_Desc"	"não chore! Você tem propósito narrtivo em vida de Heavy."
 // Twin Barrel
 "TF_Weapon_TwinBarrel"		"Twin Barrel"
-"TF_Weapon_TwinBarrel_Desc"	"(After-market modification voids the warranty.)"
+"TF_Weapon_TwinBarrel_Desc"	"(Modificações depois da venda anulam a garantía.)"
 // Anti-Aircraft Cannon
 "TF_Weapon_AntiAircraftCannon"		"Canhão Antiaéreo"
 "TF_Weapon_AntiAircraftCannon_Desc"	"Which piece of you should Heavy send home to momma?"
@@ -562,7 +562,7 @@
 "TF_Weapon_Harvester_Desc"	"Ask not for whom the bell tolls."
 // Brick
 "TF_Weapon_Brick"		"Tijolo"
-"TF_Weapon_Brick_Desc"	"Didn't think you were THAT slow."
+"TF_Weapon_Brick_Desc"	"Não pensei que você era TÃO lento."
 
 // ----------------------------------------------------------------
 // Double Down weapon strings
@@ -654,32 +654,32 @@
 "Attrib_FlatHealOnAfterburn_Active"					"+%s1 health gain per afterburn tick while active"
 "Attrib_RememberTargetsRemainingAfterburn"			"Tracks remaining afterburn off dead targets"
 "Attrib_OnDeathRemoveTargetsAfterburn"				"Inimigos em chamas são extinguidos ao morrer"
-"Attrib_Explosive_Bullets"							"Fires explosive shells"
+"Attrib_Explosive_Bullets"							"Díspara munições explosivas"
 "Attrib_CannotUseStoredCrits"						"This weapon cannot use stored crits"
-"Attrib_GainStoredCritsOnHit"						"On Hit: Store %s1 critical hit"
+"Attrib_GainStoredCritsOnHit"						"Ao acertar: Guarda %s1 crítico"
 "Attrib_AlwaysCritsFullStoredCrits"					"This weapon cannot use stored crits unless at full capacity"
 "Attrib_LoseStoredCritsOnMiss"						"On Miss: Lose %s1 stored critical hit"
-"Attrib_MeleeTakenBecomesCritWearer"				"On Wearer: Take crits from melee damage"
+"Attrib_MeleeTakenBecomesCritWearer"				"Ao equipar: Recebe críticos de armas corpo a corpo"
 "Attrib_MoveSpeed_Bonus_Cloaked"					"+%s1% faster move speed while cloaked"
 "Attrib_LoseCloakOnDamage"							"-%s1% cloak when damaged under cloak"
 "Attrib_TranqOnHit"									"On Hit: Color blind victim and slow their weapon and movement speed for %s1s"
 "Attrib_FishwhackerSweep"							"Deals knockback to nearby enemies"
 "Attrib_SelfKnockbackAffectedByDamageBoostModifier"	"Self-Knockback is affected by damage boost"
 "Attrib_ApplySelfKnockbackSwing"					"Applies reverse self-knockback on a swing"
-"Attrib_AirblastSelfKnockback"						"Airblast deals knockback on user"
-"Attrib_ProximityMine"								"Proximity mines explode near enemies"
+"Attrib_AirblastSelfKnockback"						"Rajada de ar empurra o usuário"
+"Attrib_ProximityMine"								"Minas de proximidade explode proximo de inimigos"
 "Attrib_AltFire_FizzleMines"						"Alt-Fire: Fizzle proximity mines"
 "Attrib_NoStickyChargeTime"							"No Stickybomb charge time"
 "Attrib_BlastSplashDamage_Decreased"				"%s1% explosion splash damage"
-"Attrib_BurningTargetsChargeCrit"					"Burning victims fill crit meter while active"
-"Attrib_LimitedRange"								"Weapon has limited range"
-"Attrib_GainStoredCritsOnKill"						"On Kill: Store %s1 critical hit"
-"Attrib_HealOnKillCrit"								"+%s1 health restored on crit kill"
-"Attrib_InstantReloadOnDirectHit"					"On Direct Hit: Reload up to %s1 ammo instantly"
-"Attrib_InstantReloadOnHit"							"On Hit: Reload up to %s1 ammo instantly"
-"Attrib_InstantReloadOnDirectHitKill"				"On Direct Hit Kill: Reload up to %s1 ammo instantly"
-"Attrib_InstantReloadOnKill"						"On Kill: Reload up to %s1 ammo instantly"
-"Attrib_ViewPunchOnHit"								"On Hit: Shake victim's view"
+"Attrib_BurningTargetsChargeCrit"					"Vítimas em chamas enchem o medido de crítico enquanto ativo"
+"Attrib_LimitedRange"								"Arma tem alcance limitado"
+"Attrib_GainStoredCritsOnKill"						"Ao matar: Guarda %s1 crítico"
+"Attrib_HealOnKillCrit"								"+%s1 de vida restaurada ao matar com crítico"
+"Attrib_InstantReloadOnDirectHit"					"Em acerto direto: Recarrega até %s1 munição instanâneamente"
+"Attrib_InstantReloadOnHit"							"Ao acertar: Recarrega até %s1 de munição instantâneamente"
+"Attrib_InstantReloadOnDirectHitKill"				"Ao matar com acerto direto: Recarrega até %s1 de munição instantâneamente"
+"Attrib_InstantReloadOnKill"						"Ao matar: Recarrega até %s1 de munição instantâneamente"
+"Attrib_ViewPunchOnHit"								"Ao acertar: Treme a visão da vítima"
 "Attrib_FlinchDecrease"								"%s1% less flinching"
 "Attrib_FlinchIncrease"								"+%s1% more flinching"
 "Attrib_FlinchDecreaseWearer"						"%s1% less flinching on wearer"
@@ -687,19 +687,19 @@
 "Attrib_FlinchDecreaseAiming"						"%s1% less flinching when aiming"
 "Attrib_FlinchIncreaseAiming"						"+%s1% more flinching when aiming"
 "Attrib_CritVsBleed"								"100% de críticos contra inimigos sangrando"
-"Attrib_MinicritWhileDisguised"						"Attack deals mini-crits while you are disguised"
-"Attrib_TakeMinicritsWhileDisguised"				"Suffer mini-crit damage while disguised"
+"Attrib_MinicritWhileDisguised"						"Ataques causam mini-crit enquanto você está disfarçado"
+"Attrib_TakeMinicritsWhileDisguised"				"Sofre mini-críticos enquanto você está disfarçado"
 "Attrib_ObjectivesGiveMiniCrits"					"Deals mini-crits to enemies capturing, defending, or carrying objectives"
 "Attrib_HeadshotIsMinicrit"							"Tiros na cabeça causam minicríticos"
-"Attrib_BuildingsMaxLevel"							"Buildings have %s1 max level"
-"Attrib_UpgradeCost"								"Buildings require %s1 metal to upgrade"
-"Attrib_Dispenser_Build_Rate"						"Increases Dispenser build speed by %s1%"
+"Attrib_BuildingsMaxLevel"							"Construções tem %s1 nível máximo"
+"Attrib_UpgradeCost"								"Construções precisam de %s1 metal para aprimorar"
+"Attrib_Dispenser_Build_Rate"						"Aumenta velocidade de construção da Dispenser em %s1%"
 "Attrib_JumpPad_Build_Rate"							"Increases Jump Pad build speed by %s1%"
 "Attrib_DispenserBuildCost"							"%s1% Dispenser build cost"
 "Attrib_SentrygunBuildCost"							"%s1% Sentry Gun build cost"
 "Attrib_JumpPadBuildCost"							"%s1% Jump Pad build cost"
-"Attrib_NoPrimaryAmmoFromDispensersAlways"			"Dispensers do not give ammo"
-"Attrib_MetalOnSentryKill"							"On Sentry Kill: +%s1 metal"
+"Attrib_NoPrimaryAmmoFromDispensersAlways"			"Dispenser não fornecem munição"
+"Attrib_MetalOnSentryKill"							"Em morte com Sentinela: +%s1 metal"
 "Attrib_SentryKnockback_Increased"					"Sentry Gun deals +%s1% knockback"
 "Attrib_SentryKnockback_Decreased"					"Sentry Gun deals %s1% knockback"
 "Attrib_SentryTurnRate_Increased"					"Sentry Gun turns +%s1% faster"
@@ -725,34 +725,34 @@
 "Attrib_HealthFromPacks_Active_Decreased"			"%s1% health from packs while active"
 "Attrib_DamageDelaysRegeneration"					"Taking damage delays HP regen by %s1s"
 "Attrib_DestroyGrenadesDetonateOwn"					"Explosion destroys enemy grenades and detonates your own"
-"Attrib_HoldFirePreventDetonation"					"Hold Fire: Prevent grenade detonation"
+"Attrib_HoldFirePreventDetonation"					"Segurar Dísparo: Evita explosão da granada"
 "Attrib_CritAirborneEnemies"						"100% de críticos contra inimigos no ar"
 "Attrib_ModCritAirborneDirectHitOnly"				"Crits airborne enemies on direct hit only"
 "Attrib_ObjectivesGiveCrits"						"100% de críticos contra inimigos capturando, defendendo ou carregando objetivos"
-"Attrib_AddAmmoOnDirectHit"							"On Direct Hit: Gain %s1 ammo"
-"Attrib_AddAmmoOnDirectHitKill"						"On Direct Hit Kill: Gain %s1 ammo"
+"Attrib_AddAmmoOnDirectHit"							"Em acerto direto: Ganha %s1 munição"
+"Attrib_AddAmmoOnDirectHitKill"						"Ao matar com acerto direto: Ganha %s1 munição"
 "Attrib_AddAmmoOnKill"								"Ao matar: ganha %s1 de munição"
 "Attrib_MinicritVsWet"								"100% de minicrits contra inimigos molhados"
 "Attrib_TakeMinicritsProjectileAirborne"			"Recebe minicrits de projéteis enquanto estiver no ar"
 "Attrib_HealOnSmack"								"Teammates hit while at maximum charge will be fully healed"
 "Attrib_MultDamageCrit"								"Dano causado por acertos críticos %s1% maior"
 "Attrib_DropTeamHealthPackOnKill"					"Drops a team healthpack on kill"
-"Attrib_PassiveAmmoHolstered"						"Passively reloads ammo while holstered"
+"Attrib_PassiveAmmoHolstered"						"Recarrega munição passivamente enquanto empunhada"
 "Attrib_Backstab"									"Attack an enemy from behind to backstab them for a one-hit kill"
 "Attrib_UpgradeRepairBuildings"						"Aprimora, repara e acelera a construção de construções aliadas ao acertar"
 "Attrib_AltFire_DetonateStickybombs"				"Disparo-alt: detona todas as Stickybombs"
 "Attrib_AltFire_Airblast"							"Disparo-alt: solta uma rajada de ar que empurra inimigos e projéteis, além de extinguir aliados em chamas."
 "Attrib_AltFire_Cloak"								"Disparo-alt: camuflar-se"
-"Attrib_SapBuildings"								"Disables and slowly destroys enemy buildings\nDoes not remove disguise when used"
-"Attrib_ReloadNotActive"							"This weapon will reload when not active"
+"Attrib_SapBuildings"								"Desabilita e lentamente destrói construções\nNão remove disfarçe quando usado."
+"Attrib_ReloadNotActive"							"Essa arma recarrega quando não ativo"
 "Attrib_Sandvich"									"Coma para recuperar até 120 de vida\nDisparo-alt: compartilha um Sandviche com um aliado (cura 50% de vida)"
 "Attrib_AltFire_MinicritBoost"						"Disparo-alt: fornece um bônus de minicrits a um aliado"
-"Attrib_SplitsIntoBomblets"							"Splits into 4 small bomblets upon exploding"
+"Attrib_SplitsIntoBomblets"							"Divide em 4 pequenas bombinhas após explodir"
 "Attrib_DisabledByWrench"							"Pode ser desarmado por Chaves Inglesas"
-"Attrib_Coilgun"									"Fully charged shots ricochet off walls, and explode in your hand when overcharged"
-"Attrib_DamageAffectedByCharge"						"Damage is affected by current charge"
+"Attrib_Coilgun"									"Tiros totalmente carregados ricocheteiam em paredes, e explode na sua mão se sobrecarregado"
+"Attrib_DamageAffectedByCharge"						"Dano é afetado pela carga atual"
 "Attrib_JumpPadNoUpgrade"							"Jump Pads cannot be upgraded"
-"Attrib_AltFire_HasteBoost"							"Alt-Fire: Give haste boost to a teammate"
+"Attrib_AltFire_HasteBoost"							"Alt-Fire: Dâ um boost de velocidade ao para um aliado"
 "Attrib_AltFire_UberBubble"							"Disparo-alt: Lança um dispositivo que fornece invulnerabilidade em área"
 
 // ----------------------------------------------------------------
@@ -890,10 +890,10 @@ Honorable hand to sword combat only!"
 "Gametype_VIPRace_FourTeam"			"Corrida de VIPs (Quatro Equipes)"
 
 // Offline practice descriptions
-"TF_GameModeDesc_VIP"			"BLU escorts the Civilian to a control point. RED needs to stop them."
-"TF_GameModeDesc_VIPRace"		"Escort your Civilian to the finish line before the opposing team does."
-"TF_GameModeDesc_Domination"	"Capture points and hold them for as long as possible."
-"TF_GameModeDesc_Arena"			"Eliminate all enemy players or wait for the control point to unlock."
+"TF_GameModeDesc_VIP"			"BLU escolta o Civilian para um ponto de controle. RED precisa parar eles."
+"TF_GameModeDesc_VIPRace"		"Escole seu Civilian até a linha de chegada antes que o time inimigo consiga."
+"TF_GameModeDesc_Domination"	"Capture pontos e mantenha eles por mais tempo possível."
+"TF_GameModeDesc_Arena"			"Elimine todos os jogadores inimigos ou espere o ponto de controle ser desbloqueado."
 
 "TF_GameModeBrief_VIPRace"		"Corrida de VIPs - Ambas as equipes possuem VIPs"
 
